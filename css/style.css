@@ -34,7 +34,7 @@ header  a:after{
   transition: 0.3s;
 }
 header  a:hover{
-  color: #ffffff;
+  color: antiquewhite;
 }
 header a:hover:after{
   width: 100%;
